@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonishubham2290-source.github.io/LowSpec-Gaming/sitemap.xml
