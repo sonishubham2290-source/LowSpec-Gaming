@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/category.html</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/article.html</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/about.html</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/contact.html</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/privacy.html</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/terms.html</loc></url>
-  <url><loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/disclaimer.html</loc></url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/category.html</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/article.html</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/about.html</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://sonishubham2290-source.github.io/LowSpec-Gaming/disclaimer.html</loc>
+  </url>
 </urlset>
